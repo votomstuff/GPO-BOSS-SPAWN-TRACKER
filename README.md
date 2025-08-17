@@ -9,6 +9,7 @@ How to Launch:
 2.To start the website, just double-click the HTML file you want (depending on the time format you prefer). It will open in your browser.
 
 Changing Sounds:
+
 You can change the sound effects in the sounds folder.
 
 alarm10 → plays 10 minutes before a boss spawns.
