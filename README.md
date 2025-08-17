@@ -16,8 +16,9 @@ alarm10 → plays 10 minutes before a boss spawns.
 
 alarmNow → plays at the exact time the boss spawns.
 
-Support Me
-If you’d like to support me, you can purchase one of my Roblox game passes:
+Support ME:
+
+If you’d like to support me, you can purchase one of theese:
 
 BOBUX (100 Robux): https://www.roblox.com/game-pass/117238813/BOBUX
 
