@@ -3,6 +3,7 @@ A boss spawn tracker with alarms (10 minutes before and on spawn), live timeline
 
 
 How to Launch
+Unzip GPO_spawn_track.zip
 To start the website, just double-click the HTML file you want (depending on the time format you prefer). It will open in your browser.
 
 Changing Sounds
